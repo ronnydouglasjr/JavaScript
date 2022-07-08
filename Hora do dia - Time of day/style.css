@@ -1,0 +1,55 @@
+body{
+    font: normal 15pt arial;
+    margin: 50px;
+}
+
+/* Cabeçario */
+
+header {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* interatividade */
+
+section{
+    background: white;
+    margin: auto;
+    width: 500px;
+    height: 270px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;  
+    box-shadow: 1px 1px 10px 5px rgb(22, 22, 22);
+}
+
+/* paragrafo dentro da interatividade */
+
+p{
+    font: normal 16pt arial;
+}
+
+/* centralização da imagem*/
+
+.container{
+    justify-content: center;  
+}
+
+/* rodapé */
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+/* Definição do tamanho da imagem */
+
+.imghora{
+    height: 200px;
+    width: 40%;
+    border-radius: 100%;
+    margin: auto;
+ 
+   
+}

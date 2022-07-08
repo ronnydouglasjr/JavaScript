@@ -1,0 +1,22 @@
+body{
+    background: rgb(53, 53, 169);
+    font: normal 15pt arial;
+}
+
+select{
+    width: 150px;
+}
+
+section{
+    background: white;
+    width: 500px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px 5px black;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
