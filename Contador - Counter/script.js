@@ -1,14 +1,14 @@
 function contar(){
-    // Dados do inicio // 
+    // Dados do inicio 
     var inicio = document.getElementById('inicio');
 
-    // Dados do fim // 
+    // Dados do fim 
     var fim = document.getElementById('fim');
 
-    // Dados do passo // 
+    // Dados do passo 
     var passo = document.getElementById('passo');
 
-    // Dados do ID HTML // 
+    // Dados do ID HTML 
     var res = document.getElementById('resultado');
 
     if (inicio.value.length == 0 || fim.value.length == 0 || passo.value.length == 0 || passo.value == 0){
